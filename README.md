@@ -39,16 +39,6 @@ Il dataset utilizzato è disponibile su Kaggle:
 
 ---
 
-## Struttura del Progetto
-
-| Notebook                            | Funzionalità                                                                 |
-|-------------------------------------|------------------------------------------------------------------------------|
-| `cnn.ipynb`                         | Addestramento e valutazione del modello CNN personalizzato                   |
-| `resnet.ipynb`                      | Implementazione della ResNet50 con preprocessing e valutazione               |
-| `vgg16.ipynb`                       | Implementazione del modello VGG16 con transfer learning                      |
-
----
-
 ## Librerie Utilizzate
 
 | Libreria              | Funzione                                                                          |
